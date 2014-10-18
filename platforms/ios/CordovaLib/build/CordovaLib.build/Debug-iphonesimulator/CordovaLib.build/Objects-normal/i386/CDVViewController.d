@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVViewController.m \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDV.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVAvailability.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVPlugin.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVViewController.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVDebug.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVTimer.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/NSData+Base64.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVJSON.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVConfigParser.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h \
+  /Users/sheehantoufiq/Desktop/CrowdJockey/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
