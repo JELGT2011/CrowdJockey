@@ -1,15 +1,16 @@
-angular.module('starter.controllers', [])
+var app = angular.module('CrowdJockey.controllers', [])
 
-.controller('DashCtrl', function($scope) {
-})
+app.controller('HomeController', function($scope) {
+});
 
-.controller('FriendsCtrl', function($scope, Friends) {
-  $scope.friends = Friends.all();
-})
+app.controller('CreateController', function($scope) {
+});
 
-.controller('FriendDetailCtrl', function($scope, $stateParams, Friends) {
-  $scope.friend = Friends.get($stateParams.friendId);
-})
+app.controller('ChatroomController', function($scope) {
+});
 
-.controller('AccountCtrl', function($scope) {
+app.controller('TrendingController', function($scope) {
+});
+
+app.controller('TestController', function($scope) {
 });
